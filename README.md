@@ -1,6 +1,7 @@
 # Automatizcion_ADSO
 
-#ASIER
+# ASIER
+
 Para poder ejecutar los archivos de automatización primero tendremos que crear el ejemplo de carpeta. En este caso D:\Ejercicio
 Tras esto podemos ejecutar el primer script de automatización para poder crear las carpetas que necesita el usuario.
 
